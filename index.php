@@ -9,4 +9,4 @@ $payload = file_get_contents('https://sunstones.ua/pagexml/380972388564/yml.xml'
 
 	echo $offer->name. '<br>';
 
-}
+}ывыфвывфвы
